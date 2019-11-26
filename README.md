@@ -1,4 +1,11 @@
 # gostack-desafio05
+GoStack
+Desafio 5: Primeiro projeto com ReactJS
+“Para quem fica melhor a cada dia, ficar pronto é utopia”!
+GitHub language count Made by Rocketseat License Stargazers
+
+Sobre o desafio   |    Entrega   |    Licença
+
 🚀 Sobre o desafio
 Nesse desafio você adicionará novas funcionalidades na aplicação que desenvolvemos ao longo desse módulo.
 
